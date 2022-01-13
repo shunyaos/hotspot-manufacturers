@@ -18,7 +18,7 @@ Shunya IoT AI Research Private Limited is a Startup in AIoT. (add more)
 * What brought you to Helium?
   *  **We always believed that AI, IoT and Blockchain technologies will revolutionalize the Industrial IoT and Industrial Automation space. By creating a decentralized LoRAWAN, Helium and the People's Network seems to represent this revolution. And we wanted to be a part of this revolution.** 
 
-## Product Information (required)
+## Product Information:
 * What is this product's model name or model number? 
   *  Model Name - **BrainyMiner**
   *  Model Number - TBD
@@ -56,13 +56,13 @@ This would includes remote updates and the ability for hosts to change wifi sett
 ## What is your expected production and delivery timeline? 
 TBD
 
-## Previous shipments (required)
+## Previous shipments:
 
 ## Startups welcomed!
 * Have you shipped anything in the past? **No**
 * Which countries have you previously shipped regulatory FCC or CE approved products? **No**
 
-## Which countries do you plan to ship to and get regulatory certifications for? (required)
+## Which countries do you plan to ship to and get regulatory certifications for?
 We plan to Ship to these countires 
 1. US (FCC)
 2. Europe (CE and UKCA)
@@ -80,7 +80,7 @@ We plan to Ship to these countires
   *  **BrainyMiner will come with a warranty of 1 year.** 
   *  **We Plan to support Hardware repairs and Software updates for atleast 5 years.**
 
-## Hardware Security Element (required)
+## Hardware Security Element
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
 
 * Are you using an ECC608. Yes or no?
@@ -94,7 +94,7 @@ We plan to Ship to these countires
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
   *  **Yes.**
 
-## Hardware Information (required)
+## Hardware Information
 * Which security (swarm) element are you using? 
   *  **ECC608.**
 * Which LoRa chipset are you planning to use in your gateway? (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
@@ -104,7 +104,7 @@ We plan to Ship to these countires
 * How many radio modules/ concentrators can you procure?
   *  TBD  
 
-## Manufacturing Information (required)
+## Manufacturing Information
 * Have you built and delivered radio hardware products before?
   *  **No**
 * Have you built gateways before? 
@@ -118,15 +118,15 @@ We plan to Ship to these countires
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives, e.g. as GitHub comments.
 Contact details for this will be provided after your application is submitted on GitHub. 
 
-## Budget & Capital (required)
+## Budget & Capital
 * How many hotspots are you planning to manufacture and sell within the first six months of sales?
-  *  **3000 hotspots
+  *  **3000 hotspots**
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
   *  TBD 
 * What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures - getting almost over the line and then running out of cash.)
   *  TBD  
 
-## Risks & Challenges (required)
+## Risks & Challenges
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 1.  Component Availability 
     -  **Due to the pandemic there is a shortage of components (CPU's and LoRA hardware), it is expected that the shortage will continue till mid 2022. In order to reduce the risk and ensure component availiablity we have onboarded the component distributor as a partner on the terms that they will ensure availability till Q2 of 2022.** 
@@ -134,13 +134,13 @@ Please tell us about some of the challenges that would prevent these products fr
     -  TBD  
 
 ## Other information if you do not provide contact information we cannot review your proposal.
-* Contact Info: **+91 9619111829
-* Contact Email (required) - **support@shunyaos.org
-* Website (required) - https://shunyaos.org (dedicated site for BrainyMiner is coming up)
+* Contact Info: **+91 9619111829**
+* Contact Email (required) - **support@shunyaos.org**
+* Website (required) - [https://shunyaos.org](https://shunyaos.org) (dedicated site for BrainyMiner is coming up)
 * Twitter profile - 
 * Facebook profile -
 * Other social profiles - 
 
-## Payment methods available (required):
+## Payment methods available:
 1.  Paypal
 2.  Wire 
