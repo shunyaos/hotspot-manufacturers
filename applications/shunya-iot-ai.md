@@ -12,39 +12,39 @@ Shunya IoT AI Research Private Limited is a Startup in AIoT. (add more)
 * How long have you been in business? 
   *  **Since 2018**
 * What kind of products have you created?
-  *  **Industrial IoT Gateways, Industrial Routers, AIoT (AI and IoT) Stack   
+  *  **Industrial IoT Gateways, Industrial Routers, AIoT (AI and IoT) Stack.**
 * How many have you sold? 
   *  (put-exact-number-here)
 * What brought you to Helium?
-  *  **We always believed that AI, IoT and Blockchain technologies will revolutionalize the Industrial IoT and Industrial Automation space. By creating a decentralized LoRAWAN, Helium and the People's Network seems to represent this revolution. And we wanted to be a part of this revolution. 
+  *  **We always believed that AI, IoT and Blockchain technologies will revolutionalize the Industrial IoT and Industrial Automation space. By creating a decentralized LoRAWAN, Helium and the People's Network seems to represent this revolution. And we wanted to be a part of this revolution.** 
 
 ## Product Information (required)
 * What is this product's model name or model number? 
-  *  Model Name - **BrainyMiner 
+  *  Model Name - **BrainyMiner**
   *  Model Number - TBD
 * Is this is Light Hotspot or Full Hotspot?
-  *  **Full Hotspot 
+  *  **Full Hotspot**
 * Is it for indoor or outdoor?
-  *  **Outdoor
+  *  **Outdoor**
 * Provide a brief description of what you're making.
   * Hotspots Miner - Outdoor - In Development
-    1.  LoRa Concentrator - **SX1302/1303
-    2.  CPU - **64 Bit ARM Hexa-core (Quad-core Cortex-A53 up to 1.4 GHz Dual-core Cortex-A72 up to 1.8 GHz)
-    3.  RAM - **4GB RAM LPDDR4
-    4.  Storage - **32GB eMMC
-    5.  Key Storage - **ATECC608 dedicated Chip
-    6.  Ethernet - **GbE LAN
-    7.  WiFi - **802.11 ac WIFI
-    8.  Bluetooth - **Bluetooth 5.0 support
-    9.  Power Supply - **5V 2A
-    10. Software Setup - Docker based setup with full support using Helium App, (BrainyMiner App development in progress)
+    1.  LoRa Concentrator - **SX1302/1303**
+    2.  CPU - **64 Bit ARM Hexa-core (Quad-core Cortex-A53 up to 1.4 GHz Dual-core Cortex-A72 up to 1.8 GHz)**
+    3.  RAM - **4GB RAM LPDDR4**
+    4.  Storage - **32GB SD Card**
+    5.  Key Storage - **ATECC608 dedicated Chip**
+    6.  Ethernet - **GbE LAN**
+    7.  WiFi - **802.11 ac WIFI**
+    8.  Bluetooth - **Bluetooth 5.0 support**
+    9.  Power Supply - **5V 2A**
+    10. Software Setup - **Docker based setup with full support using Helium App, (BrainyMiner App development in progress)**
     11. Casing - (TBD)
-    12. Supported Frequency Bands - **470MHz/865MHz/868MHz/915MHz/923MHz and other
+    12. Supported Frequency Bands - **470MHz/865MHz/868MHz/915MHz/923MHz and other**
     13. Coverage Radius - TBD 
-    14. Debugging - Remote SSH access and OTA updates
+    14. Debugging - **Remote SSH access and OTA updates**
 
 ## What is your approximate price point?
-BrainyMiner is expected to cost around **400 USD
+BrainyMiner is expected to cost around **400 USD**
 
 ## Please provide detailed hardware designs, including relevant parts
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
@@ -59,8 +59,8 @@ TBD
 ## Previous shipments (required)
 
 ## Startups welcomed!
-* Have you shipped anything in the past? **No
-* Which countries have you previously shipped regulatory FCC or CE approved products? **No
+* Have you shipped anything in the past? **No**
+* Which countries have you previously shipped regulatory FCC or CE approved products? **No**
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
 We plan to Ship to these countires 
@@ -71,44 +71,44 @@ We plan to Ship to these countires
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
-  *  **For Support we are planning to have these channels 
+  *  **For Support we are planning to have these channels**
      1. Discord
      2. Telegram 
      3. Dedicated Ticketing and Support Site
     
 * For how long? How are you planning to handle repairs and replacements? 
-  *  BrainyMiner will come with a warranty of 1 year. 
-  *  We Plan to support Hardware repairs and Software updates for atleast 5 years.
+  *  **BrainyMiner will come with a warranty of 1 year.** 
+  *  **We Plan to support Hardware repairs and Software updates for atleast 5 years.**
 
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
 
 * Are you using an ECC608. Yes or no?
-  *  **Yes. 
+  *  **Yes.**
 * Encrypted/locked-down firmware. Yes or no? 
-  *  **No. 
+  *  **No.**
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
-  *  **No, using ECC608 for miner swarm_keu
+  *  **No, using ECC608 for miner swarm_key**
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
-  *  **No. 
+  *  **No.**
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
-  *  **Yes.
+  *  **Yes.**
 
 ## Hardware Information (required)
 * Which security (swarm) element are you using? 
-  *  **ECC608. 
+  *  **ECC608.**
 * Which LoRa chipset are you planning to use in your gateway? (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
-  *  **SX1302/03
+  *  **SX1302/03**
 * Where are you sourcing your components from? 
-  *  **We are sourcing the components from China. We have a dedicated distributor for the components and they are also the partner (stake) in this venture. Our partner will ensure availability of the components till Q2 of 2022.
+  *  **We are sourcing the components from China. We have a dedicated distributor for the components and they are also the partner (stake) in BrainyMiner. Our partner will ensure availability of the components till Q2 of 2022.**
 * How many radio modules/ concentrators can you procure?
   *  TBD  
 
 ## Manufacturing Information (required)
 * Have you built and delivered radio hardware products before?
-  *  **No 
+  *  **No**
 * Have you built gateways before? 
-  *  **Yes, we have built Industrial IoT Gateways  
+  *  **Yes, we have built Industrial IoT Gateways.**
 * How many gateways did you make? 
   *  TBD 
 * If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
@@ -129,7 +129,9 @@ Contact details for this will be provided after your application is submitted on
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 1.  Component Availability 
-2.  Radio Certifications 
+    -  **Due to the pandemic there is a shortage of components (CPU's and LoRA hardware), it is expected that the shortage will continue till mid 2022. In order to reduce the risk and ensure component availiablity we have onboarded the component distributor as a partner on the terms that they will ensure availability till Q2 of 2022.** 
+2.  Radio Certifications
+    -  TBD  
 
 ## Other information if you do not provide contact information we cannot review your proposal.
 * Contact Info: **+91 9619111829
